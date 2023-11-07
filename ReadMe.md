@@ -5,7 +5,8 @@
 https://jeff42445077.github.io/mainHTML
 
 ## Education
-University of Warwick School of Engineering Coventry, United Kingdom  
+
+# [University of Warwick School of Engineering](https://warwick.ac.uk/fac/sci/eng/?fbclid=IwAR2urpPSro3P7nxTxqLm5F72xAqoBnrJs7BydPvizq_-oa8rwMG7Sb4p8ng) Coventry, United Kingdom  
 MEng in Electrical and Electronic Engineering | Electronics and Hardware Track Oct 2019 – Jan 2024  
 Grade: Second Class, Upper Division with Honors | Coursework: Computer Architecture; Software Engineering Principles; ASICS, MEMS and VLSIs; FPGA Embedded Systems Design; Systems Modelling, Computation and Control; Communication Systems; Analogue and Digital Electronic Design; Electrical Drives and Power Devices
 
