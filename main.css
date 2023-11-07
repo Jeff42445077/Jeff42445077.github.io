@@ -1,0 +1,38 @@
+
+
+/* CSS Document */
+
+*{}
+body{
+	font-size: 13px;
+	background-image: url(../images/bg.JPG);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+a{ text-decoration:none; color:#333333;}
+
+#outer{ width:900px; margin:0 auto; position:relative;}
+.nav td a{display:block; width:100px; height:40px;}
+.nav td a:hover{ background:#000000; color:#FFFFFF; display:block; width:100px; height:40px; font-size:15px;}
+.nav .td1{ background:#FFCC00; text-align:center; line-height:40px;}
+.nav .td2{ background:#FF0000; text-align:center; line-height:40px;}
+.nav .td3{ background:#0066FF; text-align:center; line-height:40px;}
+.nav .td4{ background:#33CC00; text-align:center; line-height:40px;}
+.nav .td5{ background:#00CC33; text-align:center; line-height:40px;}
+.nav .td6{ background:#FF00FF; text-align:center; line-height:40px;}
+.nav .td7{ background:#0066FF; text-align:center; line-height:40px;}
+.about{ margin-top:20px;}
+.about td{ height:30px; line-height:30px;}
+.about td:hover{ background:#FFFFFF; color:#000000;}
+.stars{ position:absolute; top:150px;}
+.fireworks{ position:absolute; top:150px; left:115px; width:650px;}
+.photo{ margin-top:20px;}
+.photo td:hover{ background:#000000; color:#ffffff;}
+.frd{ margin-top:20px;}
+
+#footer{ text-align:center; color:#CCCCCC;}
+
+作者：IT精英联盟
+链接：https://juejin.cn/post/7289343331012542519
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
